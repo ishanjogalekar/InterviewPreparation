@@ -1,2 +1,8 @@
 # InterviewPreparation
-Interview Prep Guides 
+Interview Prep Guides
+
+---
+
+- DSA questions 
+- SQL questions
+- Domain specific questions
