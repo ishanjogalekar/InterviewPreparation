@@ -1,7 +1,5 @@
 package stringExamples;
 
-import java.util.Arrays;
-
 public class FindNonRepeatingCharacter {
 
     /*
