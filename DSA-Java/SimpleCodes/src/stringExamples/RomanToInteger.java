@@ -3,7 +3,7 @@ package stringExamples;
 import java.util.HashMap;
 
 public class RomanToInteger {
-
+    
     public int romanToInt(String s) {
         //All roman characters and their respective int values in array ordered
         String roman = "IVXLCDM";
