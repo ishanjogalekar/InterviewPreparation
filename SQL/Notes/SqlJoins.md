@@ -3,11 +3,10 @@
 - Short guide for SQL Joins
 ---
 
-
-## What is SQL Join ?
+## What is SQL Join?
 Query and access data from multiple tables by establishing logical relationships between them.
 
-It can access data from multiple tables simultaneously using common key values shared across different tables.
+It can simultaneously access data from multiple tables using common key values shared across different tables.
 
 ---
 ## Types of Joins
